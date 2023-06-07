@@ -1,0 +1,8 @@
+.notification {
+  align-self: center;
+  text-align: center;
+  width: 360px;
+  padding: 40px;
+  font-weight: bold;
+  background-color: lightgray;
+}

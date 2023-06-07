@@ -1,0 +1,21 @@
+.statistic {
+  font-size: medium;
+  text-align: center;
+}
+
+.btns {
+  align-self: center;
+  text-align: center;
+}
+
+.btn {
+  height: 54px;
+  width: 54px;
+  border-radius: 50%;
+  border: 1px dashed black;
+  cursor: pointer;
+}
+
+.btn:not(:last-child) {
+  margin-right: 32px;
+}
